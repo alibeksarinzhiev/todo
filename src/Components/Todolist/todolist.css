@@ -1,0 +1,23 @@
+.todoList{
+   list-style: none;
+
+}
+.todolist-task{
+   margin-top: 10px;
+   list-style: none;
+   font-size: 15px;
+}
+.todolist-name{
+   font-size: 15px;
+}
+.todolist_btns{
+   display: flex;
+   column-gap: 10px;
+   justify-content: center;
+}
+
+.todolist-btn{
+   width: 70px;
+   height: 40px;
+   border-radius: 8px;
+}

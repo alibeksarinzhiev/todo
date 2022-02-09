@@ -1,0 +1,9 @@
+.todolist-name.active{
+color: black;
+}
+.todolist-name.done{
+    color: green;
+}
+.todolist-name.imp{
+    color:yellow;
+}

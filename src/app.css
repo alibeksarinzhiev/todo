@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Supermercado+One&family=Syne+Tactile&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Supermercado+One&family=Syne+Tactile&family=Yellowtail&display=swap');
+.app{
+    background: deeppink;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-container{
+    width: 100%;
+    max-width: 400px;
+    padding: 20px 10px;
+    background: white;
+    border-radius: 5px;
+    
+}

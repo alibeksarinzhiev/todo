@@ -1,0 +1,23 @@
+.search{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.search-input{
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    outline: none;
+    font-family: 'Yellowtail', cursive;
+}
+.btns{
+    display: flex;
+    column-gap: 10px;
+
+}
+.search-button{
+    cursor: pointer;
+    width: 70px;
+    height: 40px;
+}
